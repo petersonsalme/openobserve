@@ -15321,7 +15321,6 @@
       "draft": "Esboço",
       "active": "Ativo",
       "paused": "Pausado",
-      "degraded": "Degradado",
       "archived": "Arquivado"
     },
     "summaryAll": "Todos",
@@ -15792,6 +15791,11 @@
         "scorers": "Avaliadores",
         "created": "Criado",
         "actions": "Ações"
+      },
+      "health": {
+        "degraded": "Degradado",
+        "since": "Entrou neste estado {time}",
+        "checked": "Última verificação {time}"
       },
       "empty": {
         "title": "Nenhum Trabalho de Avaliação Ainda"

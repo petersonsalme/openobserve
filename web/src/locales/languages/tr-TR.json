@@ -15321,7 +15321,6 @@
       "draft": "Taslak",
       "active": "Aktif",
       "paused": "Duraklatıldı",
-      "degraded": "Bozulmuş",
       "archived": "Arşivlenmiş"
     },
     "summaryAll": "Tümü",
@@ -15792,6 +15791,11 @@
         "scorers": "Puanlayıcılar",
         "created": "Oluşturuldu",
         "actions": "İşlemler"
+      },
+      "health": {
+        "degraded": "Bozulmuş",
+        "since": "{time} bu duruma geçti",
+        "checked": "Son kontrol: {time}"
       },
       "empty": {
         "title": "Henüz Değerlendirme İşi Yok"

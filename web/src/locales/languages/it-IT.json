@@ -15321,7 +15321,6 @@
       "draft": "Bozza",
       "active": "Attivo",
       "paused": "In pausa",
-      "degraded": "Degradato",
       "archived": "Archiviato"
     },
     "summaryAll": "Tutti",
@@ -15792,6 +15791,11 @@
         "scorers": "Scorer",
         "created": "Creato",
         "actions": "Azioni"
+      },
+      "health": {
+        "degraded": "Degradato",
+        "since": "Entrato in questo stato {time}",
+        "checked": "Ultimo controllo {time}"
       },
       "empty": {
         "title": "Nessun processo di valutazione ancora"

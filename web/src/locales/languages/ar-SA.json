@@ -15321,7 +15321,6 @@
       "draft": "المسودة",
       "active": "نشط",
       "paused": "توقف",
-      "degraded": "متدهورة",
       "archived": "مؤرشف"
     },
     "summaryAll": "الجميع",
@@ -15792,6 +15791,11 @@
         "scorers": "المسجلون",
         "created": "تأسيس",
         "actions": "الإجراءات"
+      },
+      "health": {
+        "degraded": "متدهورة",
+        "since": "دخل هذه الحالة {time}",
+        "checked": "آخر فحص {time}"
       },
       "empty": {
         "title": "لا توجد وظائف تقييم حتى الآن"

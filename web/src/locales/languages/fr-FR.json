@@ -15321,7 +15321,6 @@
       "draft": "Brouillon",
       "active": "Actif",
       "paused": "En pause",
-      "degraded": "Dégradé",
       "archived": "Archivé"
     },
     "summaryAll": "Tous",
@@ -15792,6 +15791,11 @@
         "scorers": "Évaluateurs",
         "created": "Créé",
         "actions": "Actions"
+      },
+      "health": {
+        "degraded": "Dégradé",
+        "since": "Entré dans cet état {time}",
+        "checked": "Dernière vérification : {time}"
       },
       "empty": {
         "title": "Aucune tâche d'évaluation pour l'instant"
